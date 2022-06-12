@@ -1,6 +1,6 @@
 # Scrimba frontend learning Path
 
-This is a solution to scrimba's A trip to Lagos
+This is a solution to scrimba's Business card
 
 ## Table of contents
 
@@ -10,7 +10,6 @@ This is a solution to scrimba's A trip to Lagos
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Proud of this](#proud-of-this)
   - [Continued development](#continued-development)
 - [Author](#author)
 
